@@ -1,35 +1,38 @@
-# 🤖 Automation-engineering-portfolio
 
-Welcome!
+# 🤖 AI & Automation Engineering Portfolio
 
-I'm Justus, a Mechanical Engineer and Machine Specialist transitioning into AI and Business Automation Engineering.
+Hi, I'm **Justus**.
 
-Working in manufacturing has taught me the importance of process optimization, reliability, and continuous improvement. I'm now applying those same engineering principles to automate business workflows using modern automation platforms.
+I'm a Mechanical Engineer and Machine Specialist with experience in industrial manufacturing and packaging operations at **Nigerian Breweries Plc**.
+
+My career has focused on improving equipment reliability, reducing downtime, and optimizing production processes. As I transition into AI and Automation Engineering, I'm applying those same engineering principles to automate business workflows, eliminate repetitive tasks, and build intelligent process solutions.
+
+This repository documents my journey as I design automation projects using Zapier, Make.com, n8n, APIs, Google Workspace, and AI technologies.
 
 ---
 
-## Automation Platforms
+## 🛠 Automation Platforms
 
 - Zapier
-- Make.com 
-- n8n 
+- Make.com *(Learning)*
+- n8n *(Learning)*
 - OpenAI
 - Google Workspace
-- APIs
+- REST APIs
 
 ---
 
-## Projects
+## 📂 Portfolio Projects
 
 | Project | Platform | Status |
 |----------|----------|--------|
 | Weather Notification Bot | Zapier | ✅ Completed |
-| Intelligent Email Reply | Zapier | ✅ Completed |
-| Event Registration System | Zapier | ✅ Completed |
-| Customer Support Ticket Management | Zapier | ✅ Completed |
+| Intelligent Email Reply Automation | Zapier | ✅ Completed |
+| Event Registration & Reminder System | Zapier | ✅ Completed |
+| Customer Support Ticket Management System | Zapier | ✅ Completed |
 
 ---
 
-## Goals
+## 🎯 Career Objective
 
-This repository documents my journey from industrial process optimization to AI-powered business automation through real-world projects.
+To combine my background in manufacturing engineering with AI and workflow automation to design scalable solutions that improve operational efficiency across industrial and business environments.
