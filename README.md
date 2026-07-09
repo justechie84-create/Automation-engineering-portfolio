@@ -5,7 +5,7 @@ Hi, I'm **Justus**.
 
 I'm a Mechanical Engineer and Machine Specialist with experience in industrial manufacturing and packaging operations at **Nigerian Breweries Plc**.
 
-My career has focused on improving equipment reliability, reducing downtime, and optimizing production processes. As I transition into AI and Automation Engineering, I'm applying those same engineering principles to automate business workflows, eliminate repetitive tasks, and build intelligent process solutions.
+My career has focused on improving equipment reliability, reducing downtime, and optimizing production processes. As I transition into AI and Automation Engineering, I'm applying those same engineering principles to design automation solutions that improve business operations, eliminate repetitive work, and support data-driven decision making."
 
 This repository documents my journey as I design automation projects using Zapier, Make.com, n8n, APIs, Google Workspace, and AI technologies.
 
