@@ -113,16 +113,6 @@ This solution helps organizations:
 - Notification Systems
 - Process Optimization
 
----
-
-## Screenshots
-
-The `/images` folder contains:
-
-- Workflow
-- Confirmation Email
-- Google Sheet
-- Telegram Notification
 
 ## Screenshots
 
@@ -140,8 +130,7 @@ https://private-user-images.githubusercontent.com/294649413/619980196-24268219-c
 ---
 
 ### Telegram Notification
-
-![Telegram Notification](images/telegram-notification.png)
+https://private-user-images.githubusercontent.com/294649413/619983006-5432211c-fd30-4f57-b393-5794797300f4.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM2ODMyMTksIm5iZiI6MTc4MzY4MjkxOSwicGF0aCI6Ii8yOTQ2NDk0MTMvNjE5OTgzMDA2LTU0MzIyMTFjLWZkMzAtNGY1Ny1iMzkzLTU3OTQ3OTczMDBmNC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDcxMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA3MTBUMTEyODM5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZmE1ZTA5YTdjMTM3YjczZTFiZDUzOGMwZWI0OGZlMjUzYzc3ZmIwNWMxZjYwYjBjMWVkZTUwN2QxM2JjMmYxYyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.a_BiuGHihWy70uY9I-3GWjvETjKRZahE8GH-dirk4D8
 
 ---
 
