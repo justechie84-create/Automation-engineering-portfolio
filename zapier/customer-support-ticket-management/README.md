@@ -127,8 +127,8 @@ The `/images` folder contains:
 ## Screenshots
 
 ### Workflow
-<img width="546" height="475" alt="image" src="https://github.com/user-attachments/assets/a031decd-7bf3-45e9-99cb-544b6b13f2d6" />
 
+![Workflow](images/workflow.png)
 
 ### Confirmation Email
 
