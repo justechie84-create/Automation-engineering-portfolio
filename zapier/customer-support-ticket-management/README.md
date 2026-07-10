@@ -124,6 +124,28 @@ The `/images` folder contains:
 - Google Sheet
 - Telegram Notification
 
+## Screenshots
+
+### Workflow
+<img width="546" height="475" alt="image" src="https://github.com/user-attachments/assets/a031decd-7bf3-45e9-99cb-544b6b13f2d6" />
+
+
+### Confirmation Email
+
+![Confirmation Email](images/confirmation-email.png)
+
+---
+
+### Google Sheets Ticket Database
+
+![Google Sheet](images/google-sheet.png)
+
+---
+
+### Telegram Notification
+
+![Telegram Notification](images/telegram-notification.png)
+
 ---
 
 ## Lessons Learned
