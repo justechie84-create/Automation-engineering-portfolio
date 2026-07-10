@@ -14,8 +14,8 @@ This repository documents my journey as I design automation projects using Zapie
 ## 🛠 Automation Platforms
 
 - Zapier
-- Make.com *(Learning)*
-- n8n *(Learning)*
+- Make.com 
+- n8n 
 - OpenAI
 - Google Workspace
 - REST APIs
