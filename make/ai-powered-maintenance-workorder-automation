@@ -1,0 +1,92 @@
+# AI-Powered Maintenance Work Order Automation System
+
+## Overview
+
+This project demonstrates an AI-powered maintenance request automation workflow built with Make.com and Google Workspace.
+
+The system automatically processes maintenance requests submitted through Google Forms, generates a unique Work Order ID, uses AI to classify the issue, assigns the appropriate maintenance team, determines the priority, updates a centralized Google Sheet, and sends notifications through Gmail and Telegram.
+
+---
+
+## Features
+
+- AI-powered maintenance analysis
+- Automatic Work Order ID generation
+- Intelligent priority assignment
+- Automatic maintenance team assignment
+- AI-generated maintenance summary
+- Google Sheets database update
+- Reporter acknowledgement email
+- Maintenance notification email
+- Telegram alerts
+- Priority-based workflow routing
+
+---
+
+## Workflow
+
+```text
+Google Form
+      │
+Google Sheets
+      │
+Generate Work Order ID
+      │
+Reporter Acknowledgement Email
+      │
+AI Analysis
+      │
+Parse JSON
+      │
+Priority Router
+      ├── Critical
+      ├── High
+      └── Medium
+      │
+Update Google Sheet
+      │
+Telegram Notification
+      │
+Maintenance Email
+```
+
+---
+
+## Technologies Used
+
+- Make.com
+- Google Forms
+- Google Sheets
+- Gmail
+- Telegram Bot
+- Make AI Toolkit
+- JSON Parser
+
+---
+
+## AI Capabilities
+
+The AI automatically:
+
+- Determines the maintenance category
+- Assigns the responsible maintenance team
+- Classifies the maintenance priority
+- Generates a concise fault summary
+
+---
+
+## Business Value
+
+This solution reduces manual effort by automating maintenance request triage, prioritization, team assignment, and stakeholder notifications, improving response consistency and operational efficiency.
+
+---
+
+## Future Improvements
+
+- Dynamic email lookup
+- Multiple team assignment notifications
+- SLA monitoring
+- Escalation workflows
+- PostgreSQL integration
+- Power BI dashboard
+- n8n implementation
